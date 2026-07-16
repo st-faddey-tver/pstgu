@@ -1,9 +1,16 @@
 <!DOCTYPE html>
 <html>
+    <head>
+        <style>
+            li {
+                line-height: 2;
+            }
+        </style>
+    </head>
     <body>
         <h1>ПСТГУ</h1>
         <ol>
-            <li>Основы Православия umm_op</li>
+            <li>Основы Православия <a href="umm_op.php" title="Основы Православия">umm_op</a></li>
             <li>Священное Писание Ветхого Завета umm_spvz</li>
             <li>Священное Писание Нового Завета umm_spnz</li>
             <li>Догматическое богословие umm_pv</li>
