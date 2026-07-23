@@ -33,5 +33,7 @@
             <li>Возрастная психология и педагогика umk_vpp</li>
             <li>Наука и религия umm_nir</li>
         </ol>
+        <hr />
+        <p><a href="books.php" title="Книги">Книги</a></p>
     </body>
 </html>

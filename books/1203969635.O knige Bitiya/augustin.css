@@ -1,0 +1,139 @@
+BODY {
+	background-color: #b8b8b8;
+	background-image: url(pics/paper4.jpg); 
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 100%;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-top: 5px;
+	}
+H1, H2, H3, H4, H5, H6 {
+font-family: "Times New Roman", serif;
+/*text-align: center;*/
+text-indent: 0%;
+}
+H1 {
+	font-size: 200%;
+	color: red;
+}
+H2 {
+	font-size: 160%;
+}
+H3 {
+	font-size: 130%;
+}
+H4 {
+	font-size: 110%;
+}
+H5 {
+	font-size: 100%;
+	font-family: Verdana, Arial, sans-serif;
+	font-size: larger;
+	font-weight: normal;
+	color: navy;
+	text-indent:7%;
+/*	text-align: center; */
+	text-decoration: underline;
+	margin-bottom: 0%;
+	cursor: hand;
+}
+P {
+	font-family: Verdana, Arial, sans-serif;
+	text-indent: 7%;
+	text-align: justify;
+}
+P.motto{
+	 color: Red;
+	 font-family: " Times New Roman", serif;
+	 font-size: large;
+	 font-style: italic;
+	 font-weight: bold;
+	 text-align: center;
+}
+P.note {
+	 font-family:  Arial, sans-serif;
+	 font-size: small;
+	 font-weight: normal;
+	 font-style: italic;
+	 text-align: center;
+	 text-indent: 0%;
+	 color=navy;
+	margin-left: 15%;
+	margin-right: 15%;
+	margin-top: 15px;
+	margin-bottom: 15px;
+; color: navy
+	 }
+P.notes {
+	 font-family:  Arial, sans-serif;
+	 font-size: x-small;
+	 font-weight: normal;
+	 text-align: justify;
+	 text-indent: -0%;
+	 }
+P.trop {
+	color: Red;
+	 font-family:  Arial, sans-serif;
+	 font-size: x-small;
+	 font-weight: normal;
+	 font-style: italic;
+	 text-align: center;
+	 text-indent: 0%;
+	 margin-left: 10%;
+	 margin-right: 10%;
+	 }
+P.undent{
+	text-indent: -3%;
+	text-align: justify;
+	margin-top: 0%;
+}
+P.noident{
+	text-indent: 0%;
+	text-align: justify;
+}
+P.title{
+	 color: navy;
+	 font-family: "Arial", sans-serif;
+	 font-size: large; 
+	 font-style: normal;
+	 font-weight: bold; 
+	 text-align: center;
+	 letter-spacing: 1px;
+	 text-indent: 0%;
+	 text-decoration: none;
+	 margin-left: 0%;
+}
+A:LINK {
+	color: maroon;
+	background-color: transparent;
+	text-decoration: none;
+}
+A:VISITED {
+	color: navy;
+	background-color: transparent;
+	text-decoration: none;
+}
+A:HOVER {
+	color: blue;
+	background-color: transparent;
+	text-decoration: none;
+}
+UL {
+	font-family: Verdana, Arial, sans-serif;
+	text-align: justify;
+	font-size: small;
+	font-style: italic
+}
+UL.times {
+	font-size: small; 
+	font-family: "Times New Roman", serif;
+	list-style-type: square;
+}
+}.center{
+	text-align: center;
+	text-indent: 0%;
+}
+.smallmenu {
+	COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.collapsed {display: none}
