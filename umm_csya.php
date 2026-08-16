@@ -1,7 +1,13 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <link href="css/main.css" rel="stylesheet" />
+        <link href="css/fonts.css" rel="stylesheet" />
+        <link href="css/sample.css" rel="stylesheet" />
+        <style>
+            .ponomar, .fedorovsk, .menaion, .monomakh, .cathisma, .oglavie, .fira, .pochaevsk, .triodion, .acathist, .shafarik, .shafarik3, .pomorsky-dropcaps, .indiction-dropcaps, .vertograd-dropcaps, .sample, .decoration {
+                font-size: large;
+            }
+        </style>
     </head>
     <body>
         <p class="ponomar"><a href="index.php" title="К списку">Къ спи́скꙋ</a></p>
