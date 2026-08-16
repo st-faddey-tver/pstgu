@@ -1,0 +1,6 @@
+@import 'fonts.css';
+@import 'sample.css';
+
+.ponomar, .fedorovsk, .menaion, .monomakh, .cathisma, .oglavie, .fira, .pochaevsk, .triodion, .acathist, .shafarik, .shafarik3, .pomorsky-dropcaps, .indiction-dropcaps, .vertograd-dropcaps, .sample, .decoration {
+    font-size: large;
+}

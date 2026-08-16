@@ -8,6 +8,8 @@
         </style>
     </head>
     <body>
+        <p><a href="index.php" title="К списку">К списку</a></p>
+        <hr />
         <h1>ПСТГУ</h1>
         <ol>
             <li>Основы Православия <a href="umm_op.php" title="Основы Православия">umm_op</a></li>
@@ -34,6 +36,6 @@
             <li>Наука и религия umm_nir</li>
         </ol>
         <hr />
-        <p><a href="index1.php" title="index1">index1</a></p>
+        <p><a href="books.php" title="Книги">Книги</a></p>
     </body>
 </html>
