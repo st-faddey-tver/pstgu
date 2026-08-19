@@ -10,8 +10,8 @@
         </style>
     </head>
     <body>
-        <p class="ponomar"><a href="index.php" title="К списку">Къ спи́скꙋ</a></p>
-        <p class="ponomar">Взѧ́то съ са́йта ПСТГꙊ (<a href="https://pstgu.ru/" title="ПСТГУ" target="_blank">https://pstgu.ru/</a>) въ ҂ва҃ї годꙋ̀.</p>
+        <p><a href="index.php" title="К списку">К списку</a></p>
+        <p>Взято с сайта ПСТГУ (<a href="https://pstgu.ru/" title="ПСТГУ" target="_blank">https://pstgu.ru/</a>) в 2011 году.</p>
         <hr />
         <p>Канд. филол. наук Маршева Л. И.</p>
         <h1>Церковнославянский язык</h1>
