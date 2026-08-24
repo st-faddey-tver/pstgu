@@ -16,7 +16,7 @@
             <li>Догматическое богословие <a href="umm_pv.php" title="Православное вероучение">umm_pv</a></li>
             <li>Церковнославянский язык <a href="umm_csya.php" title="Церковнославянский языык">umm_csya</a></li>
             <li>Введение в литургическое предание <a href="umm_vlp.php" title="Введение в литургическое Предание">umm_vlp</a></li>
-            <li>Устав и гимнография umm_uig</li>
+            <li>Устав и гимнография <a href="umm_uig.php" title="Устав и гимнография">umm_uig</a></li>
             <li>История Христианской Церкви umm_ihc</li>
             <li>История Русской Православной Церкви umm_irpc</li>
             <li>Агиология umm_agiologia</li>
