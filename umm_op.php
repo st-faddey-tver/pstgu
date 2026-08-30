@@ -537,5 +537,6 @@
         </ol>
         <hr />
         <p>© ПСТГУ, 2008</p>
+        <p><a href="index.php" title="К списку">К списку</a></p>
     </body>
 </html>

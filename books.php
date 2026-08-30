@@ -22,5 +22,7 @@
             </tr>
             <?php endforeach; ?>
         </table>
+        <hr />
+        <p><a href="index.php" title="К списку">К списку</a></p>
     </body>
 </html>

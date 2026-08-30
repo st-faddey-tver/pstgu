@@ -19,7 +19,7 @@
             <li>Церковнославянский язык <a href="umm_csya.php" title="Церковнославянский языык">umm_csya</a></li>
             <li>Введение в литургическое предание <a href="umm_vlp.php" title="Введение в литургическое Предание">umm_vlp</a></li>
             <li>Устав и гимнография <a href="umm_uig.php" title="Устав и гимнография">umm_uig</a></li>
-            <li>История Христианской Церкви umm_ihc</li>
+            <li>История Христианской Церкви <a href="umm_ihc.php" title="История Христианской Церкви">umm_ihc</a></li>
             <li>История Русской Православной Церкви umm_irpc</li>
             <li>Агиология umm_agiologia</li>
             <li>Иконоведение umm_ikonovedenie</li>
