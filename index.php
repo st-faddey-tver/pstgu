@@ -19,7 +19,7 @@
             <li>Устав и гимнография <a href="umm_uig.php" title="Устав и гимнография">umm_uig</a></li>
             <li>История Христианской Церкви <a href="umm_ihc.php" title="История Христианской Церкви">umm_ihc</a></li>
             <li>История Русской Православной Церкви <a href="umm_irpc.php" title="История Русской Православной Церкви">umm_irpc</a></li>
-            <li>Агиология umm_agiologia</li>
+            <li>Агиология <a href="umm_agiologia.php" title="Агиология">umm_agiologia</a></li>
             <li>Иконоведение umm_ikonovedenie</li>
             <li>Святоотеческая письменность umm_cp</li>
             <li>Нравственное богословие umm_e</li>
