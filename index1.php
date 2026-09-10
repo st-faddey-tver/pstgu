@@ -16,7 +16,7 @@
             <li>Священное Писание Ветхого Завета <a href="umm_spvz.php" title="Священное Писание Ветхого Завета">umm_spvz</a></li>
             <li>Священное Писание Нового Завета <a href="umm_spnz.php" title="Священное Писание Нового Завета">umm_spnz</a></li>
             <li>Догматическое богословие <a href="umm_pv.php" title="Православное вероучение">umm_pv</a></li>
-            <li>Церковнославянский язык <a href="umm_csya.php" title="Церковнославянский языык">umm_csya</a></li>
+            <li>Церковнославянский язык <a href="umm_csya.php" title="Церковнославянский язык">umm_csya</a>, <a href="umm_csya1.php" title="Церковнославянский язык">umm_csya1</a></li>
             <li>Введение в литургическое предание <a href="umm_vlp.php" title="Введение в литургическое Предание">umm_vlp</a></li>
             <li>Устав и гимнография <a href="umm_uig.php" title="Устав и гимнография">umm_uig</a></li>
             <li>История Христианской Церкви <a href="umm_ihc.php" title="История Христианской Церкви">umm_ihc</a></li>
